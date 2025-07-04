@@ -19183,7 +19183,7 @@ const Sy = "https://tidnmzsivsthwwcfdzyo.supabase.co",
 									e.jsx("p", {
 										className: "text-gray-300 leading-relaxed text-sm",
 										children:
-											"Cel mai premium marketplace pentru motociclete din România. Găsește sau vinde motocicleta perfectă cu încredere și siguranță.",
+											"Cel mai exclusivist marketplace România. Vinde sau descoperă motocicleta perfectă pe Nexar.ro.",
 									}),
 									e.jsxs("div", {
 										className: "flex space-x-4",
